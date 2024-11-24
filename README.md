@@ -4,9 +4,7 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=wefdzen&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 - Skills
