@@ -4,7 +4,7 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 - Skills
