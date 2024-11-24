@@ -2,8 +2,10 @@
   
 ![coding-anime]([https://github.com/Wefdzen/Wefdzen/assets/108589201/781e93bb-c1e9-41e2-aea4-9004c05d89a8](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif))
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=wefdzen&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
