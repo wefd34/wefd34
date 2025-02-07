@@ -1,17 +1,47 @@
 <div align="center">
-  
-![coding-anime]([https://github.com/Wefdzen/Wefdzen/assets/108589201/781e93bb-c1e9-41e2-aea4-9004c05d89a8](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif))
+<h1>Wefdzen</h1>
+<b>Backend Developer | Golang Enthusiast</b>
+</div>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+---
 
+### ⚡ About Me  
+🚀 Backend developer focused on **Golang** & high-performance systems.  
+🎯 Passionate about backend architecture, optimization, and distributed systems.  
+🎮 Gamer in my free time.  
 
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-- Skills
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<br><br>
+### 🛠️ Tech Stack  
+**Languages:** Golang, Python, C++  
+**Frameworks:** Gin(favorite), Echo, Fiber  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Cloud:** AWS, Docker, Kubernetes  
+**Other:** Bash, Linux(Debian), Postman, REST API, GRPC, Swagger 
+
+---
+
+### 📊 Stats  
 <p align="center">
-  <samp>
-    <a href="https://leetcode.com/wefdzen/">leetcode</a> ⌘
-  </samp>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Wefdzen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>  
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wefdzen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
+
+---
+
+### ⛩️ Letcoode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/wefdzen?theme=nord&font=Chivo)  
+
+---
+
+### 🎮 Steam
+[![Steam Profile](https://card.yuy1n.io/card/76561199523236549/tokyonight,en,badge,group,badges,games,screenshots)](https://steamcommunity.com/profiles/76561199523236549/)
+
+---
+
+### 📩 Contact  
+<a href="https://github.com/Wefdzen"><img  align="left" height="100"  width="150" src="./img/r.gif"></a>
+- 📧 Email: [wefdrus34@gmail.com](mailto:wefdrus34@gmail.com)  
+- 💬 Telegram: [@Wefdzen](https://t.me/Wefdzen)
+- 💼 LinkedIn: [Dmitry](https://www.linkedin.com/in/dmitry-plyvskiy-09150a324/)
+- 🐦 Twitter: [@wefd](https://twitter.com/yourhandle)
